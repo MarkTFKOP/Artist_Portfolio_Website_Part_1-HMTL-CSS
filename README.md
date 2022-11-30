@@ -69,4 +69,12 @@ About:
 ![image](https://user-images.githubusercontent.com/50983824/204733273-e54a09f9-5213-443e-b152-5ab1b195cb70.png)
 
 
+Events:
+
+![image](https://user-images.githubusercontent.com/50983824/204733427-965f34ed-3873-4e5d-9603-5db4907b062d.png)
+
+
+Connect:
+
+![image](https://user-images.githubusercontent.com/50983824/204733446-bad1e155-e9ec-4bbe-9c25-ba9a073e53dd.png)
 
