@@ -1,6 +1,6 @@
 # Artist_Portfolio_Website_Part_1-HMTL-CSS
 
-<h3>Video recording: https://www.loom.com/share/0efa1b0c55034d1c948a5899ad41bdab</h3>
+<h5>Video recording: https://www.loom.com/share/0efa1b0c55034d1c948a5899ad41bdab</h5>
 
 <h3>Introduction of the project: </h3>
 Web development is the work involved in developing a Web site for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services. A more comprehensive list of tasks to which Web development commonly refers, may include Web engineering, Web design, Web content development, client liaison, client-side/server-side scripting, Web server and network security configuration, and e-commerce development. Creating a website for a singer will help him to showcase his skills that mainly include his songs.
