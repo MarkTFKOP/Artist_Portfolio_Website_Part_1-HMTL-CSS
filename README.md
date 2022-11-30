@@ -18,14 +18,14 @@ A good website is user friendly to the right audience easy for that audience to 
 <h3>User Manual</h3>
 
 Explanation of key functions:
-•	Cloud effect on introduction page
-•	Hover cover effect on home page
-•	Rotating music gallery in song page
-•	Rotating ticket mockup and mouse hover animation on event calendar in event page
-•	 Hover bubble logo in the connect page
-•	Merch
-•	Add chat/comment in chat page
-•	Admin must be able to add new upcoming releases of merchandise and new songs 
+*	Cloud effect on introduction page
+*	Hover cover effect on home page
+*	Rotating music gallery in song page
+*	Rotating ticket mockup and mouse hover animation on event calendar in event page
+*	 Hover bubble logo in the connect page
+*	Merch
+*	Add chat/comment in chat page
+*	Admin must be able to add new upcoming releases of merchandise and new songs 
 
 Method of implementation:
 Sem1: Mini-Project
