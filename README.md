@@ -2,7 +2,7 @@
 
 
 
-##Introduction of the project:##
+<h3>Introduction of the project: </h3>
 Web development is the work involved in developing a Web site for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services. A more comprehensive list of tasks to which Web development commonly refers, may include Web engineering, Web design, Web content development, client liaison, client-side/server-side scripting, Web server and network security configuration, and e-commerce development. Creating a website for a singer will help him to showcase his skills that mainly include his songs.
 
 Problem definition:
