@@ -5,17 +5,17 @@
 <h3>Introduction of the project: </h3>
 Web development is the work involved in developing a Web site for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services. A more comprehensive list of tasks to which Web development commonly refers, may include Web engineering, Web design, Web content development, client liaison, client-side/server-side scripting, Web server and network security configuration, and e-commerce development. Creating a website for a singer will help him to showcase his skills that mainly include his songs.
 
-Problem definition:
+<h3>Problem definition:</h3>
 To create a dynamic website for a Rapper/singer. Creating such a website will attract more people to his website and will enhance his song collection.
 
-Objective of the project:
+<h3>Objective of the project:</h3>
 The objective of the project is to create a website that will showcase his best songs, biography, upcoming events, new releases, merchandise section, community chat etc. Moreover, it will like a portfolio website.
 
-Scope of the project:
+<h3>Scope of the project:</h3>
 A good website is user friendly to the right audience easy for that audience to find and provides information the targeted audience wants and needs. This website will focus on targeted audience to keep them updated with new songs and events. The users will also be able to communicate with themselves via chat section. They can also buy the merch using merch section and can also see the new releases using new releases section.
 
 
-User Manual
+<h3>User Manual</h3>
 
 Explanation of key functions:
 •	Cloud effect on introduction page
