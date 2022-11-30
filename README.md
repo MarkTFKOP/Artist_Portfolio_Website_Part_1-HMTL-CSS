@@ -40,3 +40,33 @@ Rotating music gallery:
 ![image](https://user-images.githubusercontent.com/50983824/204728361-527f68fc-c8d0-4ed8-8ebf-f38581555239.png)
 
 
+
+Mouse hover animation:
+ 
+![image](https://user-images.githubusercontent.com/50983824/204733134-0789a6e0-a9cc-4c55-b664-150c24f7db47.png)
+
+Forms:
+![image](https://user-images.githubusercontent.com/50983824/204733141-881b6c1a-2aa1-4a36-a04a-52fae8eb3234.png)
+
+
+
+Output screens:
+Introduction page
+![image](https://user-images.githubusercontent.com/50983824/204733175-f866ba7e-8e25-4f06-9c77-e5837ab9697e.png)
+
+
+Home page:
+![image](https://user-images.githubusercontent.com/50983824/204733200-8f17c8d1-5944-445a-944b-f972a60450ac.png)
+![image](https://user-images.githubusercontent.com/50983824/204733207-47fc6e0c-5bf2-4f66-a987-e8d408852a2c.png)
+
+
+Song page:
+![image](https://user-images.githubusercontent.com/50983824/204733226-914b8e8b-a955-47ed-99d2-c48d43d9a392.png)
+
+
+About:
+
+![image](https://user-images.githubusercontent.com/50983824/204733273-e54a09f9-5213-443e-b152-5ab1b195cb70.png)
+
+
+
